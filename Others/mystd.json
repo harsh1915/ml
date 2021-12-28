@@ -1,0 +1,256 @@
+[{
+  "_id": 1,
+  "Age": 21,
+  "Dept": "BCA",
+  "Gender": "Male",
+  "Name": "Krunal",
+  "Salary": 750
+},{
+  "_id": 2,
+  "Age": 23,
+  "Dept": "MCA",
+  "Gender": "Male",
+  "Name": "Nishant",
+  "Salary": 1000
+},{
+  "_id": 3,
+  "Age": 25,
+  "Dept": "BCOM",
+  "Gender": "Male",
+  "Name": "Karan",
+  "Salary": 500
+},{
+  "_id": 4,
+  "Age": 29,
+  "Dept": "BBA",
+  "Gender": "Male",
+  "Name": "Harsh",
+  "Salary": 1500
+},{
+  "_id": 5,
+  "Age": 30,
+  "Dept": "BPHARM",
+  "Gender": "Male",
+  "Name": "Anas",
+  "Salary": 600
+},{
+  "_id": 6,
+  "Age": 19,
+  "Dept": "BE",
+  "Gender": "Male",
+  "Name": "Chirag",
+  "Salary": 1000
+},{
+  "_id": 7,
+  "Age": 23,
+  "Dept": "ME",
+  "Gender": "Female",
+  "Name": "Vishwa",
+  "Salary": 5000
+},{
+  "_id": 8,
+  "Age": 25,
+  "Dept": "BBA",
+  "Gender": "Female",
+  "Name": "Shraddha",
+  "Salary": 400
+},{
+  "_id": 9,
+  "Age": 24,
+  "Dept": "BCA",
+  "Gender": "Female",
+  "Name": "Drasti",
+  "Salary": 4000
+},{
+  "_id": 10,
+  "Age": 23,
+  "Dept": "MCA",
+  "Gender": "Female",
+  "Name": "Jinal",
+  "Salary": 5000
+},{
+  "_id": 11,
+  "Age": 22,
+  "Dept": "BCOM",
+  "Gender": "Female",
+  "Name": "Roshni",
+  "Salary": 500
+},{
+  "_id": 12,
+  "Age": 22,
+  "Dept": "BBA",
+  "Gender": "Male",
+  "Name": "Mrudul",
+  "Salary": 1000
+},{
+  "_id": 13,
+  "Age": 40,
+  "Dept": "BPHARM",
+  "Gender": "Male",
+  "Name": "Anjit",
+  "Salary": 500
+},{
+  "_id": 14,
+  "Age": 36,
+  "Dept": "BE",
+  "Gender": "Male",
+  "Name": "Priyank",
+  "Salary": 800
+},{
+  "_id": 15,
+  "Age": 25,
+  "Dept": "ME",
+  "Gender": "Male",
+  "Name": "Nitin",
+  "Salary": 1000
+},{
+  "_id": 16,
+  "Age": 27,
+  "Dept": "BBA",
+  "Gender": "Male",
+  "Name": "Bhautik",
+  "Salary": 6000
+},{
+  "_id": 17,
+  "Age": 21,
+  "Dept": "BCA",
+  "Gender": "Female",
+  "Name": "Aarti",
+  "Salary": 2000
+},{
+  "_id": 18,
+  "Age": 21,
+  "Dept": "MCA",
+  "Gender": "Female",
+  "Name": "Divya",
+  "Salary": 4000
+},{
+  "_id": 19,
+  "Age": 32,
+  "Dept": "BCOM",
+  "Gender": "Female",
+  "Name": "Prachi",
+  "Salary": 5000
+},{
+  "_id": 20,
+  "Age": 31,
+  "Dept": "BBA",
+  "Gender": "Female",
+  "Name": "Geeta",
+  "Salary": 3000
+},{
+  "_id": 21,
+  "Age": 30,
+  "Dept": "BPHARM",
+  "Gender": "Female",
+  "Name": "Rita",
+  "Salary": 6000
+},{
+  "_id": 22,
+  "Age": 20,
+  "Dept": "BE",
+  "Gender": "Female",
+  "Name": "Sita",
+  "Salary": 1000
+},{
+  "_id": 23,
+  "Age": 23,
+  "Dept": "ME",
+  "Gender": "Male",
+  "Name": "Mitesh",
+  "Salary": 7000
+},{
+  "_id": 24,
+  "Age": 29,
+  "Dept": "BBA",
+  "Gender": "Male",
+  "Name": "Jitesh",
+  "Salary": 8000
+},{
+  "_id": 25,
+  "Age": 28,
+  "Dept": "PGDCA",
+  "Gender": "Male",
+  "Name": "Pritesh",
+  "Salary": 1500
+},{
+  "_id": 26,
+  "Age": 23,
+  "City": "[\"Gandhinagar\",\"Ahmedabad\",\"Rajkot\",\"Mehsana\"]",
+  "Dept": "ME",
+  "Gender": "Male",
+  "Name": "Axay",
+  "Salary": 7000
+},{
+  "_id": 27,
+  "Age": 33,
+  "City": "[\"GandhiDham\",\"Dang\",\"Bhacahu\",\"Surat\"]",
+  "Dept": "BCOM",
+  "Gender": "Female",
+  "Name": "Mina",
+  "Salary": 5000
+},{
+  "_id": 28,
+  "Age": 23,
+  "City": "[{\"Block\":\"A1 Block\",\"HouseNo\":110},{\"Block\":\"A1 Block\",\"HouseNo\":199}]",
+  "Dept": "ME",
+  "Gender": "Female",
+  "Name": "Veera",
+  "Salary": 7070
+},{
+  "_id": 29,
+  "Age": 33,
+  "City": "[{\"Block\":\"A2 Block\",\"HouseNo\":170},{\"Block\":\"A1 Block\",\"HouseNo\":199}]",
+  "Dept": "BCOM",
+  "Gender": "Female",
+  "Name": "Mira",
+  "Salary": 5000
+},{
+  "_id": 30,
+  "Age": 33,
+  "Dept": "BE",
+  "Gender": "Male",
+  "Marks": null,
+  "Name": "Nirav",
+  "Salary": 9070
+},{
+  "_id": 31,
+  "Age": 19,
+  "Dept": "BCOM",
+  "Gender": "Female",
+  "Mrks": null,
+  "Name": "Sanvi",
+  "Salary": 111111
+},{
+  "_id": 32,
+  "Name": "Dhoni",
+  "Role": "Captain",
+  "popularity": 500
+},{
+  "_id": 33,
+  "Name": "Kohli",
+  "Role": "BatsMan",
+  "popularity": 450
+},{
+  "_id": 34,
+  "Name": "Sharma",
+  "Role": "Opener",
+  "popularity": 400
+},{
+  "_id": 35,
+  "Name": "Jadeja",
+  "Role": "AllRounder",
+  "popularity": 390
+},{
+  "_id": 36,
+  "Name": "Bumrah",
+  "Role": "Bowler",
+  "popularity": 380
+},{
+  "_id": 37,
+  "Age": 20,
+  "DS": "A+",
+  "Java": "A",
+  "Maths": "A+",
+  "Name": "Yuvraj"
+}]
